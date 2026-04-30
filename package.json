@@ -1,0 +1,24 @@
+{
+  "name": "apeturesciencetur-1servers",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000A\u0000p\u0000e\u0000t\u0000u\u0000r\u0000e\u0000S\u0000c\u0000i\u0000e\u0000n\u0000c\u0000e\u0000T\u0000u\u0000r\u0000-\u00001\u0000S\u0000e\u0000r\u0000v\u0000e\u0000r\u0000s\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WillBir20000/ApetureScienceTur-1Servers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/WillBir20000/ApetureScienceTur-1Servers/issues"
+  },
+  "homepage": "https://github.com/WillBir20000/ApetureScienceTur-1Servers#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
