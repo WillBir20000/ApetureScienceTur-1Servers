@@ -17,5 +17,5 @@ app.get("/city", (req, res) => {
 
 // start server
 app.listen(() => {
-    console.log("Server running on port " + PORT);
+    console.log("Server running");
 });
